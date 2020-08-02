@@ -1,6 +1,6 @@
 from django.urls import path
 
-from .views import TextAnalyzerView, textview
+from .views import TextAnalyzerView
 
 
 urlpatterns = [
